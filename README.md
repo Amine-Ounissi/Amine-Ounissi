@@ -13,7 +13,7 @@ Hi there, I'm **Amine Ounissi**, a **Cloud Engineering student** 🚀 from Tunis
 
 **Talking about Personal Stuff:**
 
-- 🌱 I’m currently working on a private cloud project: Infrastructure as a Service (IaaS) deployment using Openstack; 
+- 🌱 I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster; 
 - 🤔 My interests are with Coding,scripting and very passionate about Open Source technologies;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
