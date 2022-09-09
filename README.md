@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Amine</h1> 
+<h1 align="left">Hey 👋, I'm Amine</h1> 
 
 <h2 align="left">Hi there, I'm Amine Ounissi,a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️, and a DevOps intern 👨🏽‍💼.</h2>
   
-<h3 align="center">A passionate Cloud and DevOps engineering student from Tunisia</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amine-ounissi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-ounissi" /> </p>
+<h3 align="left">A passionate Cloud and DevOps engineering student from Tunisia</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-ounissi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-ounissi" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-ounissi" alt="amine-ounissi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-ounissi" alt="amine-ounissi" /></a> </p>
 
 <img align="right"  alt="GIF" width="50%" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
 
@@ -30,6 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine-ounissi&show_icons=true&locale=en&layout=compact" alt="amine-ounissi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-ounissi&show_icons=true&locale=en" alt="amine-ounissi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-ounissi&show_icons=true&locale=en" alt="amine-ounissi" /></p>
 
 ⭐️ From [AmineOunissi](https://github.com/Amine-Ounissi)
