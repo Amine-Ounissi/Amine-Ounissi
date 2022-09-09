@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋, I'm Amine</h1> 
 
-<h2 align="left">Hi there, I'm Amine Ounissi,a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️, and a DevOps intern 👨🏽‍💼.</h2>
+<h2 align="left">Hi there, I'm Amine Ounissi, a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️, and a DevOps intern 👨🏽‍💼.</h2>
   
 <h3 align="left">A passionate Cloud and DevOps engineering student from Tunisia</h3>
 
