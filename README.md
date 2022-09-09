@@ -1,18 +1,9 @@
-### Hi 👋, I'm Amine
+<h1 align="center">Hi 👋, I'm Amine Ounissi, a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ @amineounissi, and a DevOps intern 👨🏽‍💼.</h1> 
 
-<a href="https://www.linkedin.com/in/amine-ounissi-839bb61b4/">
-  <img align="left" alt="Amine's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<br />
-<br />
-
-Hi there, I'm **Amine Ounissi**, a **Cloud Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@amineounissi](https://github.com/Amine-Ounissi), and a DevOps intern 👨🏽‍💼. 
-
-  <img align="right"  alt="GIF" width="70%" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
+  <img align="right"  alt="GIF" width="40%" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
 
 
-<h1 align="center">Hi 👋, I'm Amine Ounissi, a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ @amineounissi, and a DevOps intern 👨🏽‍💼.</h1>
+
 <h3 align="center">A passionate Cloud and DevOps engineering student from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-ounissi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-ounissi" /> </p>
