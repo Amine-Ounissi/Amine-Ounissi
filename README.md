@@ -3,8 +3,10 @@
 <h2 align="left">Hi there, I'm Amine Ounissi,a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️, and a DevOps intern 👨🏽‍💼.</h2>
   
 <h3 align="left">A passionate Cloud and DevOps engineering student from Tunisia</h3>
-<h3 align="left">Actively searching for an End-of-Studies Internship for 4-6 months starting February 2023 in Cloud Computing|DevOps|Backend development.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-ounissi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-ounissi" /> </p>
+
+<h3 align="left">Actively searching for an End-of-Studies Internship for 4-6 months starting February 2023 in Cloud Computing|DevOps|Backend development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-ounissi" alt="amine-ounissi" /></a> </p>
 
