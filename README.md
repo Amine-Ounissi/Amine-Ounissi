@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Amine Ounissi, a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ @amineounissi, and a DevOps intern 👨🏽‍💼.</h1> 
+<h1 align="center">Hi 👋, I'm Amine Ounissi.</h1> 
+
+<h2 I'm a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ @amineounissi, and a DevOps intern 👨🏽‍💼.</h2>
   
 <h3 align="center">A passionate Cloud and DevOps engineering student from Tunisia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-ounissi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-ounissi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-ounissi" alt="amine-ounissi" /></a> </p>
