@@ -11,13 +11,10 @@ Hi there, I'm **Amine Ounissi**, a **Cloud Engineering student** 🚀 from Tunis
 
   <img align="right"  alt="GIF" width="70%" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
 
-**Talking about Personal Stuff:**
+
 
 - 🌱 I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster; 
-- 🤔 My interests are with Coding,scripting and very passionate about Open Source technologies;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via amine.ounissi@esprit.tn to reach me.
+
 
 
 
@@ -32,9 +29,15 @@ Hi there, I'm **Amine Ounissi**, a **Cloud Engineering student** 🚀 from Tunis
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-ounissi" alt="amine-ounissi" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster**
+**Talking about Personal Stuff:**
 
-- 👯 I’m looking for an End-of-stuadies Internship **for 4-6 months**
+- 🔭 **I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster; **
+- 👯 **I’m looking for an End-of-Studies Internship for 4-6 months**
+- 🤔 **My interests are with Coding,scripting and very passionate about Open Source technologies**
+- 💼 **I’m pursuing a Bachelor's degree in Software Engineering**
+- 💬 **Ask me about anything, I am happy to help**
+- 📫 **Please email via amine.ounissi@esprit.tn to reach me**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
