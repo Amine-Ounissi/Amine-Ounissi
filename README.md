@@ -12,16 +12,6 @@ Hi there, I'm **Amine Ounissi**, a **Cloud Engineering student** 🚀 from Tunis
   <img align="right"  alt="GIF" width="70%" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
 
 
-
-- 🌱 I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster; 
-
-
-
-
-**Languages and Tools:**  
-
-
-
 <h1 align="center">Hi 👋, I'm Amine Ounissi, a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ @amineounissi, and a DevOps intern 👨🏽‍💼.</h1>
 <h3 align="center">A passionate Cloud and DevOps engineering student from Tunisia</h3>
 
@@ -31,7 +21,7 @@ Hi there, I'm **Amine Ounissi**, a **Cloud Engineering student** 🚀 from Tunis
 
 **Talking about Personal Stuff:**
 
-- 🔭 **I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster; **
+- 🔭 **I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster**
 - 👯 **I’m looking for an End-of-Studies Internship for 4-6 months**
 - 🤔 **My interests are with Coding,scripting and very passionate about Open Source technologies**
 - 💼 **I’m pursuing a Bachelor's degree in Software Engineering**
