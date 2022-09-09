@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine-ounissi&show_icons=true&locale=en&layout=compact" alt="amine-ounissi" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-ounissi&show_icons=true&locale=en" alt="amine-ounissi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-ounissi&show_icons=true&locale=en" alt="amine-ounissi" /></p>
 
