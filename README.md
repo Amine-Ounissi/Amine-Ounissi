@@ -23,20 +23,7 @@ Hi there, I'm **Amine Ounissi**, a **Cloud Engineering student** 🚀 from Tunis
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://lh3.googleusercontent.com/proxy/orgjLv3sU79rU5xdLkbV2N_TUuMhbful9joQsMiGt2QLz5vmRp59ERVRBOaYbBe7MgG5YVfuLxHBO1WIA3gwvq48ubwUmucQVIxyy6RZTkrMiTY64Dkzcz0nGdyaks_bUxyxLFtOgqLdxqdkQ6tbHpkOMnFrL9pcnHyrAirYO4hWEt6QAA"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"></code>
-<code><img height="20" src="https://pbs.twimg.com/profile_images/491968662899658752/F65UpOhT_400x400.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/langfr-220px-Apache_kafka.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-⭐️ From [AmineOunissi](https://github.com/Amine-Ounissi)
 
 <h1 align="center">Hi 👋, I'm Amine Ounissi, a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ @amineounissi, and a DevOps intern 👨🏽‍💼.</h1>
 <h3 align="center">A passionate Cloud and DevOps engineering student from Tunisia</h3>
@@ -60,3 +47,5 @@ Hi there, I'm **Amine Ounissi**, a **Cloud Engineering student** 🚀 from Tunis
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amine-ounissi&show_icons=true&locale=en&layout=compact" alt="amine-ounissi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amine-ounissi&show_icons=true&locale=en" alt="amine-ounissi" /></p>
+
+⭐️ From [AmineOunissi](https://github.com/Amine-Ounissi)
