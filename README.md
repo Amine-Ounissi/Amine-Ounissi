@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-ounissi" alt="amine-ounissi" /></a> </p>
 
 <img align="right"  alt="GIF" width="40%" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
+
 **Talking about Personal Stuff:**
 
 - 🔭 **I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster**
