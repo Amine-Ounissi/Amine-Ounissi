@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Amine Ounissi.</h1> 
 
-<h2 I'm a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ @amineounissi, and a DevOps intern 👨🏽‍💼.</h2>
+<h2 align="left">I'm a Cloud Engineering student 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️, and a DevOps intern 👨🏽‍💼.</h2>
   
 <h3 align="center">A passionate Cloud and DevOps engineering student from Tunisia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-ounissi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-ounissi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-ounissi" alt="amine-ounissi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-ounissi" alt="amine-ounissi" /></a> </p>
 
 <img align="right"  alt="GIF" width="40%" src="https://hackernoon.com/hn-images/1*X3I7dXxUWMqDMiuOcFYl2Q.gif" />
 
-**Talking about Personal Stuff:**
+
+<h3 align="left">Talking about Personal Stuff:</h3>
 
 - 🔭 **I’m currently working on a complete CI/CD pipeline project for a microservice application using Jenkins, Docker, Nexus and AKS Cluster**
 - 👯 **I’m looking for an End-of-Studies Internship for 4-6 months**
